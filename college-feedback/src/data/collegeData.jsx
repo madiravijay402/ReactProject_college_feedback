@@ -7,7 +7,7 @@ export const colleges = [
     established: "2000",
     emoji: "🏛️",
     accent: "indigo",
-    image: "https://images.unsplash.com/photo-1562774053-701939374585?w=800&q=80",
+    image: "/sethu.webp",
     tagline: "Engineering Excellence in Southern Tamil Nadu",
     problems: [
       { area: "Infrastructure", icon: "🏫", problem: "Poor classroom maintenance, broken facilities, and unhygienic washrooms.", severity: "High" },
@@ -48,7 +48,7 @@ export const colleges = [
     established: "2001",
     emoji: "🔬",
     accent: "emerald",
-    image: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    image: "/saveethaschoolofengineering.jpg",
     tagline: "Pioneering Research & Innovation in Chennai",
     problems: [
       { area: "Research Facilities", icon: "🔬", problem: "Limited research labs and outdated equipment hinder student projects.", severity: "High" },
@@ -88,7 +88,7 @@ export const colleges = [
     established: "2001",
     emoji: "⚙️",
     accent: "rose",
-    image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    image: "/saveethaengineeringcollege.jpg",
     tagline: "Shaping Future Engineers with Practical Wisdom",
     problems: [
       { area: "Workshops", icon: "⚙️", problem: "Workshop machinery is outdated and rarely functional for practical sessions.", severity: "High" },

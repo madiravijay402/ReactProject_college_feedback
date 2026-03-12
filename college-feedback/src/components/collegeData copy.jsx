@@ -48,7 +48,7 @@ export const colleges = [
     established: "2001",
     emoji: "🔬",
     accent: "emerald",
-    image: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?w=800&q=80",
+    image: "https://www.greatboardingschools.com/vendor-details/saveetha-engineering-college,-chennai/MTQ1OA==",
     tagline: "Pioneering Research & Innovation in Chennai",
     problems: [
       { area: "Research Facilities", icon: "🔬", problem: "Limited research labs and outdated equipment hinder student projects.", severity: "High" },
