@@ -55,7 +55,7 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* ── College Cards ── */}
+     
       <div className={`py-20 px-6 ${dark ? "bg-gray-950" : "bg-gray-50"}`}>
         <div className="max-w-5xl mx-auto">
           <h2
@@ -115,7 +115,7 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* ── Stats ── */}
+     
       <div className={`py-16 px-6 border-t ${dark ? "bg-gray-900 border-gray-800" : "bg-white border-gray-100"}`}>
         <div className="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           {[
